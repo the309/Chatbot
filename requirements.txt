@@ -1,0 +1,13 @@
+streamlit
+requests
+uvicorn
+pymupdf
+fastapi
+pydantic
+langchain
+langchain-google-genai
+openai
+chromadb
+python-dotenv
+langchain_chroma
+python-multipart
